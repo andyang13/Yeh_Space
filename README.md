@@ -33,8 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andyang94/ye/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact Me
-[LinkedIn](https://www.linkedin.com/in/andyang94/) 
+[LinkedIn](https://www.linkedin.com/in/andyang94/)
 [Instagram](https://www.instagram.com/yoyeh94/?hl=en) 
 [E-mail](mailto:yang003@usc.edu): yang003@usc.edu 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

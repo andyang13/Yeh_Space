@@ -3,37 +3,8 @@ gtag('config', 'UA-112502179-1'); </script>
 
 ## Home Page
 
-You can use the [editor on GitHub](https://github.com/andyang94/ye/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andyang94/ye/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact Me
 [LinkedIn](https://www.linkedin.com/in/andyang94/) | [Instagram](https://www.instagram.com/yoyeh94/?hl=en) | [E-mail](mailto:yang003@usc.edu)  
